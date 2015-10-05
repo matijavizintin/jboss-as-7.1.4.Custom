@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A1/EightRooksPuzzle/src/EightRooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A1/EightRooksPuzzle/src/EightRooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A1/EightRooksPuzzle/src/JUnitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A2/Problem_2/src/EightRooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A2/Problem_2/src/EightRooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A2/Problem_2/src/Rook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A2/Problem_2/src/RookTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A3/RooksPuzzle/src/rs/bitlbal/com/EightRooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A3/RooksPuzzle/src/rs/bitlbal/com/EightRooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A3/RooksPuzzle/src/rs/bitlbal/com/Puzzle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A3/RooksPuzzle/src/rs/bitlbal/com/PuzzleJUnitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A5/Puzzle/Puzzle.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A6/RooksPuzzle/src/net/etfbl/puzzle/EightRooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A6/RooksPuzzle/src/net/etfbl/puzzle/EightRooksTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A6/RooksPuzzle/src/net/etfbl/test/EightRooksPuzzleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Algorithms1-quiz/src/test/java/w3/SortTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/main/scala/week4/expr/Expr1.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/main/scala/week4/sort/Sort.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/main/scala/week5/ImplicitTypes.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/main/scala/week5/ListOperations.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/main/scala/week5/PairsAndTuples.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/test/scala/week5/ImplicitTypesTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/test/scala/week5/ListOperationsTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-Scala/src/test/scala/week5/PairsAndTuplesTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-scala-assignments/patmat/src/main/scala/patmat/Huffman.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Coursera-scala-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Java8-Examples/src/test/java/com/test/concurrency/AtomicVariablesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Java8-Examples/src/test/java/com/test/concurrency/ConcurrentDataStructuresTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Java8-Examples/src/test/java/com/test/streams/FilesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Java8-Examples/src/test/java/com/test/streams/StreamsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Java8-Examples/src/test/java/com/test/streams/StringsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/TopCoder/SRM 657 DIV 2/src/EightRooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/geo/GeoReviewStateAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVPPAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVirtualPowerPlantAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/common/src/main/resources/com/solveralynx/gema/common/messages_sl.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/domain/src/main/java/com/solveralynx/gema/domain/core/geounit/GeoUnitMeasurementPlace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web-resources/src/main/webapp/resources/css/core/content-structure.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/GeoReviewMapsBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/parameters/GeoReviewMapsParameter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/geomap/GeoReviewReportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/virtualpowerplant/ActivationRequestReportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/energyaccounting/invoices-editing-ea.xhtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/virtualpowerplant/activation-request.xhtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/test-gradle/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/test-gradle/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/appclient/src/main/java/org/jboss/as/appclient/deployment/AppClientJBossAllParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/appclient/src/main/java/org/jboss/as/appclient/subsystem/AppClientSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/connector/src/main/java/org/jboss/as/connector/deployers/ds/DsDeploymentActivator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/AbstractOperationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/AttributeDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/AttributeMarshaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/ControllerLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/ControllerMessages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/DefaultAttributeMarshaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/OperationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/OperationDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/SimpleAttributeDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/SimpleOperationDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/descriptions/DefaultOperationDescriptionProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/descriptions/ModelDescriptionConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/descriptions/ResourceDescriptionResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/descriptions/StandardResourceDescriptionResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/extension/ExtensionRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/interfaces/InetAddressMatchInterfaceCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/interfaces/LoopbackAddressInterfaceCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/operations/OperationAttachments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/registry/AbstractResourceRegistration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/registry/ConcreteResourceRegistration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/registry/ManagementResourceRegistration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/registry/ProxyControllerRegistration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/transform/SubsystemDescriptionDump.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/test/java/org/jboss/as/controller/interfaces/IPv6ScopeIdMatchUnitTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/test/java/org/jboss/as/controller/transform/RootSubsystemResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/controller/src/test/java/org/jboss/as/controller/transform/SessionDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/deployment-repository/src/main/java/org/jboss/as/repository/ContentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ee/src/main/java/org/jboss/as/ee/structure/AppJBossAllParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ee/src/main/java/org/jboss/as/ee/subsystem/EeSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ejb3/src/main/java/org/jboss/as/ejb3/deployment/processors/EjbJarJBossAllParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ejb3/src/main/java/org/jboss/as/ejb3/subsystem/EJB3SubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/host-controller/src/main/java/org/jboss/as/host/controller/parsing/DomainXml.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/host-controller/src/test/java/org/jboss/as/domain/controller/operations/AbstractOperationTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/config/Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/jbossjpaparser/JBossJPAParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/JPAJarJBossAllParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/JpaAttachments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/PersistenceBeginInstallProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/PersistenceProviderHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/PersistenceUnitDeploymentProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/processor/PersistenceUnitServiceHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/service/PersistenceUnitServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/subsystem/JPASubSystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/core/src/main/java/org/jboss/as/jpa/subsystem/PersistenceUnitRegistryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jpa/spi/src/main/java/org/jboss/as/jpa/JpaLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/osgi/service/src/main/java/org/jboss/as/osgi/parser/OSGiSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/DeployerChainAddHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/ServerLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/ServerMessages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/ServerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/Attachments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/ContentOverrideDeploymentUnitProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/Phase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/dependencies/DeploymentDependenciesProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/jbossallxml/JBossAllXmlParserRegisteringProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/module/descriptor/DeploymentStructureDescriptorParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/module/descriptor/JBossAllXmlParserAdaptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/module/descriptor/JBossDeploymentStructureParser10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/module/descriptor/JBossDeploymentStructureParser11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/module/descriptor/JBossDeploymentStructureParser12.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deploymentoverlay/DeploymentOverlayDeploymentAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/test/java/org/jboss/as/server/deployment/DeploymentAddHandlerTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server/src/test/java/org/jboss/as/server/test/ServerControllerUnitTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/subsystem-test/src/main/java/org/jboss/as/subsystem/test/AbstractSubsystemTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/subsystem-test/src/test/java/org/jboss/as/subsystem/test/transformers/subsystem/VersionedExtensionCommon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testsuite/integration/smoke/src/test/java/org/jboss/as/test/smoke/mgmt/datasource/AddMySqlDataSourceOperationsUnitTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/java/org/jboss/as/web/WebSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/java/org/jboss/as/web/deployment/jsf/JSFModuleIdFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/java/org/jboss/as/web/deployment/jsf/JSFSharedTldsProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/test/java/org/jboss/as/web/deployment/WarDeploymentProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weld/src/main/java/org/jboss/as/weld/WeldLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weld/src/main/java/org/jboss/as/weld/WeldSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weld/src/main/java/org/jboss/as/weld/deployment/UrlScanner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weld/src/main/java/org/jboss/as/weld/deployment/WeldAttachments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weld/src/main/java/org/jboss/as/weld/deployment/processors/ExternalBeanArchiveProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/wildfly/wildfly-7.2.0.Final-testsuite-fix/controller/src/main/java/org/jboss/as/controller/ControllerMessages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

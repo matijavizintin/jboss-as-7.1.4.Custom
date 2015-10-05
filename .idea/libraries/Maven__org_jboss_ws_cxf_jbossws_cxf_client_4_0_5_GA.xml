@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.ws.cxf:jbossws-cxf-client:4.0.5.GA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/ws/cxf/jbossws-cxf-client/4.0.5.GA/jbossws-cxf-client-4.0.5.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/ws/cxf/jbossws-cxf-client/4.0.5.GA/jbossws-cxf-client-4.0.5.GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/ws/cxf/jbossws-cxf-client/4.0.5.GA/jbossws-cxf-client-4.0.5.GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

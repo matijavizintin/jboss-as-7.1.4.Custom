@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.as:jboss-as-console:resources:1.4.0.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/as/jboss-as-console/1.4.0.Final/jboss-as-console-1.4.0.Final-resources.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/as/jboss-as-console/1.4.0.Final/jboss-as-console-1.4.0.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/as/jboss-as-console/1.4.0.Final/jboss-as-console-1.4.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

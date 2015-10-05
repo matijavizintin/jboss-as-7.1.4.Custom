@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kohsuke.rngom:rngom:201103.jboss-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/rngom/rngom/201103.jboss-1/rngom-201103.jboss-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/rngom/rngom/201103.jboss-1/rngom-201103.jboss-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/rngom/rngom/201103.jboss-1/rngom-201103.jboss-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

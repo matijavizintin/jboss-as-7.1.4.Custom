@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/context/application/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/singleton/dependson/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/jndi/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/jsr88/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/altdd/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/sar/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/servlet/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/initializeinorder/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/rar/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/annotated/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/annotated" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/mixed/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/mixed" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/dd/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/resources/web/sec/tg/dd" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules/deployments/IdentityLoginModule/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules/deployments/IdentityLoginModule" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/authentication/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/authentication" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/formauth/resources/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/formauth/resources" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/anonymousPojos/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/anonymousPojos" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/single/web/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/single/web" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/servlet/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/servlet" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/servlet/lifecycle/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/servlet/lifecycle" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/serviceref/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/serviceref" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/packaging/war/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/packaging/war" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/jsr88/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/jsr88" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/ejb3/stateful/bean/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/ejb3/stateful/bean" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/cert/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/cert" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/basic/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/basic" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web18">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules/deployments/RunAsLoginModule/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules/deployments/RunAsLoginModule" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web19">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/injection/ejb/basic/webservice/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/injection/ejb/basic/webservice" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web20">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/loginmodules" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web21">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/mappedname/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/mappedname" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web22">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/ejb3/xpc/bean/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/ejb3/xpc/bean" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web23">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/auditing/form-auth/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/auditing/form-auth" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web24">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/servlet3/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/servlet3" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web25">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/basic/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/basic" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web26">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/resources/security/deployments/passwordMasking/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/resources/security/deployments/passwordMasking" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web27">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/ztatic/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/ztatic" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web28">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/jacc/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/jacc" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web29">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/form/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/web/security/form" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web30">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/resourceref/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/resourceref" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web31">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/web/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/clust/src/test/java/org/jboss/as/test/clustering/cluster/web" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web32">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/osgi/jaxrs/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/osgi/jaxrs" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web33">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/basic/src/test/resources/ejb3/security/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/basic/src/test/resources/ejb3/security" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/jpa/beanvalidation/beanvalidationtest/persistence.xml" />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/manyToOneUnidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/mdb/messagedestination/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/altdd/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/multinode/src/test/java/org/jboss/as/test/multinode/remotecall/scoped/context/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/resourceref/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/home/remotehome/descriptor/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/singleton/concurrency/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/inject/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/manyToManyUnidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/bmp/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/defaultinterceptor/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/injection/ejbref/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/remote/entity/cmp/commerce/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/simple/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/commerce/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/oneToManyUnidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/resources/ejb/security/rolelink/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB18">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/iiop/src/test/java/org/jboss/as/test/iiop/basic/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB19">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/timerservice/entity/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB20">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/home/localhome/descriptor/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB21">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/serviceref/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB22">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/remove/method/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB23">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/jsr88/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB24">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/security/callerprincipal/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB25">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/enventry/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB26">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/async/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB27">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/security/runas/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB28">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/manyToManyBidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB29">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/exception/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB30">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/view/duplicateview/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB31">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/mdb/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB32">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/invokedintf/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB33">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/oneToOneUnidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB34">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ws/injection/ejb/basic/webservice/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB35">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ee/injection/resource/mail/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB36">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/order/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB37">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/transaction/descriptor/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB38">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/ejb2/reference/annotation/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB39">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/descriptor/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB40">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/packaging/war/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB41">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/invocationcontext/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB42">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/environment/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB43">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/iiop/src/test/java/org/jboss/as/test/iiop/transaction/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB44">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/remote/entity/bmp/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB45">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/lifecycle/destroy/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB46">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/oneToManyBidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB47">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/cascadedelete/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB48">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/relationship/oneToOneBidirectional/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB49">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/security/jacc/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB50">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/jndi/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB51">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/stateless/pooling/ejb2/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB52">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/interceptor/method/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB53">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/resources/ejb/security/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB54">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/injection/injectiontarget/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB55">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/resources/ejb3/security/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB56">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/optimisticlock/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB57">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/basic/src/test/java/org/jboss/as/test/integration/ejb/entity/cmp/postcreate/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jboss-as-webservices-tests-integration" scope="TEST" />
+    <orderEntry type="library" name="Maven: org.jboss.ws:jbossws-spi:2.0.4.GA" level="project" />
+    <orderEntry type="module" module-name="jboss-as-controller-client" />
+    <orderEntry type="module" module-name="jboss-as-security" />
+    <orderEntry type="library" name="Maven: org.jboss.marshalling:jboss-marshalling-river:1.3.16.GA" level="project" />
+    <orderEntry type="module" module-name="jboss-as-subsystem-test" scope="TEST" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-aether-provider:3.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model:3.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model-builder:3.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-interpolation:1.14" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-repository-metadata:3.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.5.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.wagon:wagon-http-lightweight:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.wagon:wagon-provider-api:1.0-beta-7" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.1.2.GA" level="project" />
+    <orderEntry type="module" module-name="jboss-as-controller" />
+    <orderEntry type="module" module-name="jboss-as-server" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-api:1.13.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-spi:1.13.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-util:1.13.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-impl:1.13.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.sonatype.aether:aether-connector-file:1.13.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.sonatype.aether:aether-connector-asynchttpclient:1.13.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.ning:async-http-client:1.6.5" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-connector-wagon:1.13.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-classworlds:2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-plexus:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-bean:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-guice:no_aop:3.0.3" level="project" />
+    <orderEntry type="module" module-name="jboss-as-testsuite-shared" scope="TEST" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jandex:1.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-dmr:1.1.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:staxmapper:1.1.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-domain-http-error-context" />
+    <orderEntry type="module" module-name="jboss-as-jmx" />
+    <orderEntry type="library" name="Maven: org.jboss.as:jbossweb-native:2.0.10.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.invocation:jboss-invocation:1.1.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jul-to-slf4j-stub:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logmanager:jboss-logmanager:1.3.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logmanager:log4j-jboss-logmanager:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.marshalling:jboss-marshalling:1.3.16.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.modules:jboss-modules:1.1.3.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.msc:jboss-msc:1.0.2.GA" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.cal10n:cal10n-api:0.7.3" level="project" />
+    <orderEntry type="library" name="Maven: com.h2database:h2:1.3.168" level="project" />
+    <orderEntry type="library" name="Maven: com.github.relaxng:relaxngDatatype:2011.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:11.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.codemodel:codemodel:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.faces:jsf-impl:2.1.29-01" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.istack:istack-commons-runtime:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.istack:istack-commons-tools:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.5.jboss-1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-xjc:2.2.5.jboss-1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.messaging.saaj:saaj-impl:1.3.16-jbossorg-1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.txw2:txw2:20110809" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xsom:xsom:20110809" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.8.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-configuration:commons-configuration:1.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
+    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: gnu-getopt:getopt:1.0.13" level="project" />
+    <orderEntry type="library" name="Maven: org.jacorb:jacorb:2.3.2.jbossorg-0" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.enterprise:cdi-api:1.0-SP4" level="project" />
+    <orderEntry type="library" name="Maven: javax.faces:jsf-api:1.2_15-jbossorg-2" level="project" />
+    <orderEntry type="library" name="Maven: javax.faces:jsf-impl:1.2_15-jbossorg-2" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: javax.jws:jsr181-api:1.0-MR1" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:mail:1.4.4" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: jaxen:jaxen:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: jboss.jaxbintros:jboss-jaxb-intros:1.0.2.GA" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-api:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-common-utilities:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-coloc:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-http:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-object:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-soap:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-xml:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-core:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-databinding-aegis:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-databinding-jaxb:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-frontend-jaxws:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-frontend-simple:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-management:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-transports-common:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-transports-http:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-transports-local:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-transports-jms:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-ws-addr:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-ws-policy:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-ws-rm:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-ws-security:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-common:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-java2ws:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-validator:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-wsdlto-core:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-wsdlto-databinding-jaxb:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-tools-wsdlto-frontend-jaxws:2.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf.xjcplugins:cxf-xjc-boolean:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf.xjcplugins:cxf-xjc-dv:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf.xjcplugins:cxf-xjc-ts:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.configadmin:1.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.log:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.james:apache-mime4j:0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.neethi:neethi:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.santuario:xmlsec:1.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.juddi:juddi-client:3.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.juddi.scout:scout:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.juddi:uddi-ws:3.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ws.xmlschema:xmlschema-core:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.velocity:velocity:1.6.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ws.security:wss4j:1.6.6" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-xc:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.woodstox:stax2-api:3.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-core:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-entitymanager:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-infinispan:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.rhq.helpers:rhq-pluginAnnotations:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-validator:4.2.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-envers:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hornetq:hornetq-core:2.2.21.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hornetq:hornetq-jms:2.2.21.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hornetq:hornetq-ra:2.2.21.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.infinispan:infinispan-cachestore-jdbc:5.1.8.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.infinispan:infinispan-cachestore-remote:5.1.8.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.infinispan:infinispan-client-hotrod:5.1.8.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.infinispan:infinispan-core:5.1.8.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.15.0-GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.common:jboss-common-beans:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-common-core:2.2.17.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-iiop-client:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-vfs:3.1.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-appclient" />
+    <orderEntry type="module" module-name="jboss-as-config-assembly" />
+    <orderEntry type="module" module-name="jboss-as-cli" />
+    <orderEntry type="module-library">
+      <library name="Maven: sun.jdk:jconsole:jdk">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/jconsole.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="jboss-as-clustering-api" />
+    <orderEntry type="module-library">
+      <library name="Maven: com.sun:tools:1.6">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="jboss-as-clustering-common" />
+    <orderEntry type="module" module-name="jboss-as-clustering-ejb3-infinispan" />
+    <orderEntry type="module" module-name="jboss-as-clustering-impl" />
+    <orderEntry type="module" module-name="jboss-as-clustering-infinispan" />
+    <orderEntry type="module" module-name="jboss-as-clustering-jgroups" />
+    <orderEntry type="module" module-name="jboss-as-clustering-registry" />
+    <orderEntry type="module" module-name="jboss-as-clustering-service" />
+    <orderEntry type="module" module-name="jboss-as-clustering-singleton" />
+    <orderEntry type="module" module-name="jboss-as-clustering-web-infinispan" />
+    <orderEntry type="module" module-name="jboss-as-clustering-web-spi" />
+    <orderEntry type="module" module-name="jboss-as-cmp" />
+    <orderEntry type="module" module-name="jboss-as-configadmin" />
+    <orderEntry type="library" name="Maven: org.jboss.as:jboss-as-console:resources:1.4.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ballroom:widgets:1.4.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.as:console-spi:1.4.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.13" level="project" />
+    <orderEntry type="library" name="Maven: com.gwtplatform:gwtp-mvp-client:0.6" level="project" />
+    <orderEntry type="library" name="Maven: com.gwtplatform:gwtp-clients-common:0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.as:console-spi:sources:1.4.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-connector" />
+    <orderEntry type="module" module-name="jboss-as-domain-http-interface" />
+    <orderEntry type="module" module-name="jboss-as-domain-management" />
+    <orderEntry type="module" module-name="jboss-as-deployment-repository" />
+    <orderEntry type="module" module-name="jboss-as-deployment-scanner" />
+    <orderEntry type="module" module-name="jboss-as-ee" />
+    <orderEntry type="module" module-name="jboss-as-ee-deployment" />
+    <orderEntry type="module" module-name="jboss-as-ejb3" />
+    <orderEntry type="module" module-name="jboss-as-embedded" />
+    <orderEntry type="module" module-name="jboss-as-jaxr" />
+    <orderEntry type="module" module-name="jboss-as-jaxrs" />
+    <orderEntry type="module" module-name="jboss-as-jdr" />
+    <orderEntry type="module" module-name="jboss-as-jsf" />
+    <orderEntry type="module" module-name="jboss-as-jsr77" />
+    <orderEntry type="module" module-name="jboss-as-host-controller" />
+    <orderEntry type="module" module-name="jboss-as-jacorb" />
+    <orderEntry type="module" module-name="jboss-as-logging" />
+    <orderEntry type="module" module-name="jboss-as-mail" />
+    <orderEntry type="module" module-name="jboss-as-management-client-content" />
+    <orderEntry type="module" module-name="jboss-as-messaging" />
+    <orderEntry type="module" module-name="jboss-as-modcluster" />
+    <orderEntry type="module" module-name="jboss-as-naming" />
+    <orderEntry type="module" module-name="jboss-as-network" />
+    <orderEntry type="module" module-name="jboss-as-osgi-configadmin" />
+    <orderEntry type="module" module-name="jboss-as-osgi-service" />
+    <orderEntry type="module" module-name="jboss-as-platform-mbean" />
+    <orderEntry type="module" module-name="jboss-as-pojo" />
+    <orderEntry type="module" module-name="jboss-as-process-controller" />
+    <orderEntry type="module-library">
+      <library name="Maven: system:jdk-tools:jdk">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="jboss-as-protocol" />
+    <orderEntry type="module" module-name="jboss-as-remoting" />
+    <orderEntry type="module" module-name="jboss-as-sos" />
+    <orderEntry type="module" module-name="jboss-as-sar" />
+    <orderEntry type="module" module-name="jboss-as-threads" />
+    <orderEntry type="module" module-name="jboss-as-transactions" />
+    <orderEntry type="module" module-name="jboss-as-web" />
+    <orderEntry type="module" module-name="jboss-as-weld" />
+    <orderEntry type="module" module-name="jboss-as-webservices-server-integration" />
+    <orderEntry type="module" module-name="jboss-as-xts" />
+    <orderEntry type="library" name="Maven: org.jboss.classfilewriter:jboss-classfilewriter:1.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.com.sun.httpserver:httpserver:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-ejb-client:1.0.15.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ejb3:jboss-ejb3-ext-api:2.0.0" level="project" />
+    <orderEntry type="module" module-name="jboss-as-jpa" />
+    <orderEntry type="module" module-name="jboss-as-jpa-hibernate3" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-commons-annotations:3.2.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-jpa-hibernate4" />
+    <orderEntry type="module" module-name="jboss-as-jpa-openjpa" />
+    <orderEntry type="library" name="Maven: org.apache.openjpa:openjpa-kernel:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.openjpa:openjpa-lib:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.openjpa:openjpa-persistence:2.1.1" level="project" />
+    <orderEntry type="module" module-name="jboss-as-jpa-spi" />
+    <orderEntry type="module" module-name="jboss-as-jpa-util" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-transaction-spi:7.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-core-api:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-core-impl:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-common-api:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-common-spi:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-common-impl:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-deployers-common:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-jdbc:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-spec-api:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ironjacamar:ironjacamar-validator:1.0.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jbossts:jbossjts:4.16.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jbossts:jbossjts-integration:4.16.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jbossts:jbosstxbridge:4.16.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jbossts:jbossxts:4.16.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jbossts:jbossxts-api:4.16.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.metadata:jboss-metadata-appclient:7.0.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.metadata:jboss-metadata-common:7.0.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.metadata:jboss-metadata-ear:7.0.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.metadata:jboss-metadata-ejb:7.0.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.metadata:jboss-metadata-web:7.0.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.mod_cluster:mod_cluster-container-spi:1.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.mod_cluster:mod_cluster-core:1.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.mod_cluster:mod_cluster-container-catalina:1.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.mod_cluster:mod_cluster-container-jbossweb:1.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.netty:netty:3.2.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.framework:jbosgi-framework-core:1.3.1.CR6" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.deployment:jbosgi-deployment:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.logging:jboss-osgi-logging:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.metadata:jbosgi-metadata:2.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.repository:jbosgi-repository-api:1.2.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.repository:jbosgi-repository-core:1.2.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.resolver:jbosgi-resolver-api:2.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.resolver:jbosgi-resolver-felix:2.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.spi:jbosgi-spi:3.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.vfs:jbosgi-vfs:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.osgi.vfs:jbosgi-vfs30:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.remoting3:jboss-remoting:3.2.13.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.remotingjmx:remoting-jmx:1.0.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging-processor:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.jdeparser:jdeparser:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jboss-remote-naming:1.0.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-jaxrs:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:async-http-servlet-3.0:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-atom-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-cdi:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-jackson-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-jaxb-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-jettison-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-jsapi:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-multipart-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.resteasy:resteasy-yaml-provider:2.3.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.sasl:jboss-sasl:1.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.seam.integration:jboss-seam-int-jbossas:6.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jboss-negotiation-common:2.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jboss-negotiation-extras:2.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jboss-negotiation-net:2.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jboss-negotiation-ntlm:2.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jboss-negotiation-spnego:2.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.security:jbossxacml:2.0.8.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap:shrinkwrap-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap:shrinkwrap-impl-base:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap:shrinkwrap-spi:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.slf4j:slf4j-jboss-logmanager:1.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.el:jboss-el-api_2.2_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.enterprise.deploy:jboss-jad-api_1.2_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.faces:jboss-jsf-api_2.1_spec:2.1.29.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.resource:jboss-connector-api_1.6_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.rmi:jboss-rmi-api_1.0_spec:1.0.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.security.auth.message:jboss-jaspi-api_1.0_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.4_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.servlet.jsp:jboss-jsp-api_2.2_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.servlet.jstl:jboss-jstl-api_1.2_spec:1.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.bind:jboss-jaxb-api_2.2_spec:1.0.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.registry:jboss-jaxr-api_1.0_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.rpc:jboss-jaxrpc-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.soap:jboss-saaj-api_1.3_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.xml.ws:jboss-jaxws-api_2.2_spec:2.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.stdio:jboss-stdio:1.0.1.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.threads:jboss-threads:2.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.web:jasper-jdt:7.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.web:jbossweb:7.0.17.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.weld:weld-api:1.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.weld:weld-core:1.1.10.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.weld:weld-spi:1.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws:jbossws-api:1.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws:jbossws-common:2.0.4.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws:jbossws-common-tools:1.0.1.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.projects:jaxws-jboss-httpserver-httpspi:1.0.1.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.cxf:jbossws-cxf-client:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.cxf:jbossws-cxf-factories:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.cxf:jbossws-cxf-resources:jboss712:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.cxf:jbossws-cxf-server:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.cxf:jbossws-cxf-transports-httpserver:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.native:jbossws-native-core:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.ws.native:jbossws-native-services:4.0.5.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.xnio:xnio-api:3.0.7.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.xnio:xnio-nio:3.0.7.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jbossxb:2.0.3.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jdom:jdom:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jgroups:jgroups:3.0.14.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.kohsuke.rngom:rngom:201103.jboss-1" level="project" />
+    <orderEntry type="library" name="Maven: org.osgi:org.osgi.core:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.osgi:org.osgi.enterprise:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.picketlink:picketlink-core:2.1.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.picketlink.distribution:picketlink-jbas7:2.1.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomplet-server-bundle:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.scannotation:scannotation:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.picketbox:picketbox:4.0.20.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.picketbox:picketbox-commons:1.0.0.final" level="project" />
+    <orderEntry type="library" name="Maven: org.picketbox:picketbox-infinispan:4.0.20.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.python:jython-standalone:2.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-ext:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.8" level="project" />
+    <orderEntry type="library" name="Maven: wsdl4j:wsdl4j:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: xalan:serializer:2.7.1.jbossorg-1" level="project" />
+    <orderEntry type="library" name="Maven: xalan:xalan:2.7.1.jbossorg-1" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.9.1-jbossas-2" level="project" />
+    <orderEntry type="library" name="Maven: xml-resolver:xml-resolver:1.2" level="project" />
+    <orderEntry type="library" name="Maven: xom:xom:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomp-client:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomp-api:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomp-common:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomplet-server-core:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-conduit-server-core:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomp-server-core:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-conduit-server-spi:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomplet-api:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.projectodd.stilts:stilts-stomp-server-spi:0.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jboss.arquillian.junit:arquillian-junit-container:1.0.0.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jboss.arquillian.junit:arquillian-junit-core:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.test:arquillian-test-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.test:arquillian-test-spi:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.core:arquillian-core-spi:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.container:arquillian-container-test-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.container:arquillian-container-test-spi:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.container:arquillian-container-spi:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-base:2.0.0-alpha-2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jboss.arquillian.core:arquillian-core-impl-base:1.0.0.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jboss.arquillian.test:arquillian-test-impl-base:1.0.0.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jboss.arquillian.container:arquillian-container-impl-base:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.config:arquillian-config-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.config:arquillian-config-impl-base:1.0.0.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-spi:2.0.0-alpha-2" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.container:arquillian-container-test-impl-base:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.testenricher:arquillian-testenricher-initialcontext:1.0.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-arquillian-container-managed" />
+    <orderEntry type="module" module-name="jboss-as-arquillian-common" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.container:arquillian-container-osgi:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.testenricher:arquillian-testenricher-cdi:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.testenricher:arquillian-testenricher-ejb:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.testenricher:arquillian-testenricher-osgi:1.0.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.testenricher:arquillian-testenricher-resource:1.0.0.Final" level="project" />
+    <orderEntry type="module" module-name="jboss-as-arquillian-testenricher-msc" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven:1.0.0-beta-5" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api:1.0.0-beta-6" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-api-maven:1.0.0-beta-6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings-builder:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-sec-dispatcher:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-cipher:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.wagon:wagon-file:1.0-beta-7" level="project" />
+    <orderEntry type="module" module-name="jboss-as-arquillian-protocol-jmx" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.protocol:arquillian-protocol-jmx:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.arquillian.core:arquillian-core-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="module" module-name="jboss-as-build-config" />
+  </component>
+  <component name="org.twodividedbyzero.idea.findbugs">
+    <option name="_basePreferences">
+      <map>
+        <entry key="property.analysisEffortLevel" value="default" />
+        <entry key="property.analyzeAfterAutoMake" value="false" />
+        <entry key="property.analyzeAfterCompile" value="false" />
+        <entry key="property.annotationGutterIconEnabled" value="true" />
+        <entry key="property.annotationSuppressWarningsClass" value="edu.umd.cs.findbugs.annotations.SuppressFBWarnings" />
+        <entry key="property.annotationTextRangeMarkupEnabled" value="true" />
+        <entry key="property.exportAsHtml" value="true" />
+        <entry key="property.exportAsXml" value="true" />
+        <entry key="property.exportBaseDir" value="" />
+        <entry key="property.exportCreateArchiveDir" value="false" />
+        <entry key="property.exportOpenBrowser" value="true" />
+        <entry key="property.minPriorityToReport" value="Medium" />
+        <entry key="property.runAnalysisInBackground" value="false" />
+        <entry key="property.showHiddenDetectors" value="false" />
+        <entry key="property.toolWindowToFront" value="true" />
+      </map>
+    </option>
+    <option name="_detectors">
+      <map>
+        <entry key="AppendingToAnObjectOutputStream" value="true" />
+        <entry key="AtomicityProblem" value="true" />
+        <entry key="BadAppletConstructor" value="false" />
+        <entry key="BadResultSetAccess" value="true" />
+        <entry key="BadSyntaxForRegularExpression" value="true" />
+        <entry key="BadUseOfReturnValue" value="true" />
+        <entry key="BadlyOverriddenAdapter" value="true" />
+        <entry key="BooleanReturnNull" value="true" />
+        <entry key="BuildInterproceduralCallGraph" value="false" />
+        <entry key="BuildObligationPolicyDatabase" value="true" />
+        <entry key="BuildStringPassthruGraph" value="true" />
+        <entry key="CallToUnsupportedMethod" value="false" />
+        <entry key="CalledMethods" value="true" />
+        <entry key="CheckCalls" value="false" />
+        <entry key="CheckExpectedWarnings" value="false" />
+        <entry key="CheckImmutableAnnotation" value="true" />
+        <entry key="CheckRelaxingNullnessAnnotation" value="true" />
+        <entry key="CheckTypeQualifiers" value="true" />
+        <entry key="CloneIdiom" value="true" />
+        <entry key="ComparatorIdiom" value="true" />
+        <entry key="ConfusedInheritance" value="true" />
+        <entry key="ConfusionBetweenInheritedAndOuterMethod" value="true" />
+        <entry key="CovariantArrayAssignment" value="false" />
+        <entry key="CrossSiteScripting" value="true" />
+        <entry key="DefaultEncodingDetector" value="true" />
+        <entry key="DoInsideDoPrivileged" value="true" />
+        <entry key="DontCatchIllegalMonitorStateException" value="true" />
+        <entry key="DontIgnoreResultOfPutIfAbsent" value="true" />
+        <entry key="DontUseEnum" value="true" />
+        <entry key="DroppedException" value="true" />
+        <entry key="DumbMethodInvocations" value="true" />
+        <entry key="DumbMethods" value="true" />
+        <entry key="DuplicateBranches" value="true" />
+        <entry key="EmptyZipFileEntry" value="false" />
+        <entry key="EqualsOperandShouldHaveClassCompatibleWithThis" value="true" />
+        <entry key="ExplicitSerialization" value="true" />
+        <entry key="FieldItemSummary" value="true" />
+        <entry key="FinalizerNullsFields" value="true" />
+        <entry key="FindBadCast2" value="true" />
+        <entry key="FindBadForLoop" value="true" />
+        <entry key="FindBugsSummaryStats" value="true" />
+        <entry key="FindCircularDependencies" value="false" />
+        <entry key="FindComparatorProblems" value="true" />
+        <entry key="FindDeadLocalStores" value="true" />
+        <entry key="FindDoubleCheck" value="true" />
+        <entry key="FindEmptySynchronizedBlock" value="true" />
+        <entry key="FindFieldSelfAssignment" value="true" />
+        <entry key="FindFinalizeInvocations" value="true" />
+        <entry key="FindFloatEquality" value="true" />
+        <entry key="FindFloatMath" value="false" />
+        <entry key="FindHEmismatch" value="true" />
+        <entry key="FindInconsistentSync2" value="true" />
+        <entry key="FindJSR166LockMonitorenter" value="true" />
+        <entry key="FindLocalSelfAssignment2" value="true" />
+        <entry key="FindMaskedFields" value="true" />
+        <entry key="FindMismatchedWaitOrNotify" value="true" />
+        <entry key="FindNakedNotify" value="true" />
+        <entry key="FindNoSideEffectMethods" value="true" />
+        <entry key="FindNonSerializableStoreIntoSession" value="false" />
+        <entry key="FindNonSerializableValuePassedToWriteObject" value="false" />
+        <entry key="FindNonShortCircuit" value="true" />
+        <entry key="FindNullDeref" value="true" />
+        <entry key="FindNullDerefsInvolvingNonShortCircuitEvaluation" value="true" />
+        <entry key="FindOpenStream" value="true" />
+        <entry key="FindPuzzlers" value="true" />
+        <entry key="FindRefComparison" value="true" />
+        <entry key="FindReturnRef" value="true" />
+        <entry key="FindRoughConstants" value="true" />
+        <entry key="FindRunInvocations" value="true" />
+        <entry key="FindSelfComparison" value="true" />
+        <entry key="FindSelfComparison2" value="true" />
+        <entry key="FindSleepWithLockHeld" value="true" />
+        <entry key="FindSpinLoop" value="true" />
+        <entry key="FindSqlInjection" value="true" />
+        <entry key="FindTwoLockWait" value="true" />
+        <entry key="FindUncalledPrivateMethods" value="true" />
+        <entry key="FindUnconditionalWait" value="true" />
+        <entry key="FindUninitializedGet" value="true" />
+        <entry key="FindUnrelatedTypesInGenericContainer" value="true" />
+        <entry key="FindUnreleasedLock" value="true" />
+        <entry key="FindUnsatisfiedObligation" value="true" />
+        <entry key="FindUnsyncGet" value="true" />
+        <entry key="FindUseOfNonSerializableValue" value="true" />
+        <entry key="FindUselessControlFlow" value="true" />
+        <entry key="FindUselessObjects" value="true" />
+        <entry key="FormatStringChecker" value="true" />
+        <entry key="FunctionsThatMightBeMistakenForProcedures" value="true" />
+        <entry key="HugeSharedStringConstants" value="true" />
+        <entry key="IDivResultCastToDouble" value="true" />
+        <entry key="IncompatMask" value="true" />
+        <entry key="InconsistentAnnotations" value="true" />
+        <entry key="InefficientIndexOf" value="false" />
+        <entry key="InefficientInitializationInsideLoop" value="false" />
+        <entry key="InefficientMemberAccess" value="false" />
+        <entry key="InefficientToArray" value="false" />
+        <entry key="InfiniteLoop" value="true" />
+        <entry key="InfiniteRecursiveLoop" value="true" />
+        <entry key="InheritanceUnsafeGetResource" value="true" />
+        <entry key="InitializationChain" value="true" />
+        <entry key="InitializeNonnullFieldsInConstructor" value="true" />
+        <entry key="InstantiateStaticClass" value="true" />
+        <entry key="IntCast2LongAsInstant" value="true" />
+        <entry key="InvalidJUnitTest" value="true" />
+        <entry key="IteratorIdioms" value="true" />
+        <entry key="LazyInit" value="true" />
+        <entry key="LoadOfKnownNullValue" value="true" />
+        <entry key="LostLoggerDueToWeakReference" value="true" />
+        <entry key="MethodReturnCheck" value="true" />
+        <entry key="Methods" value="true" />
+        <entry key="MultithreadedInstanceAccess" value="true" />
+        <entry key="MutableEnum" value="true" />
+        <entry key="MutableLock" value="true" />
+        <entry key="MutableStaticFields" value="true" />
+        <entry key="Naming" value="true" />
+        <entry key="Noise" value="false" />
+        <entry key="NoiseNullDeref" value="false" />
+        <entry key="NoteAnnotationRetention" value="true" />
+        <entry key="NoteCheckReturnValueAnnotations" value="true" />
+        <entry key="NoteDirectlyRelevantTypeQualifiers" value="true" />
+        <entry key="NoteJCIPAnnotation" value="true" />
+        <entry key="NoteNonNullAnnotations" value="false" />
+        <entry key="NoteNonnullReturnValues" value="false" />
+        <entry key="NoteSuppressedWarnings" value="true" />
+        <entry key="NoteUnconditionalParamDerefs" value="true" />
+        <entry key="NumberConstructor" value="true" />
+        <entry key="OptionalReturnNull" value="true" />
+        <entry key="OverridingEqualsNotSymmetrical" value="true" />
+        <entry key="PreferZeroLengthArrays" value="true" />
+        <entry key="PublicSemaphores" value="false" />
+        <entry key="QuestionableBooleanAssignment" value="true" />
+        <entry key="ReadOfInstanceFieldInMethodInvokedByConstructorInSuperclass" value="true" />
+        <entry key="ReadReturnShouldBeChecked" value="true" />
+        <entry key="RedundantConditions" value="true" />
+        <entry key="RedundantInterfaces" value="true" />
+        <entry key="ReflectiveClasses" value="true" />
+        <entry key="RepeatedConditionals" value="true" />
+        <entry key="ResolveAllReferences" value="false" />
+        <entry key="RuntimeExceptionCapture" value="true" />
+        <entry key="SerializableIdiom" value="true" />
+        <entry key="StartInConstructor" value="true" />
+        <entry key="StaticCalendarDetector" value="true" />
+        <entry key="StringConcatenation" value="true" />
+        <entry key="SuperfluousInstanceOf" value="true" />
+        <entry key="SuspiciousThreadInterrupted" value="true" />
+        <entry key="SwitchFallthrough" value="true" />
+        <entry key="SynchronizationOnSharedBuiltinConstant" value="true" />
+        <entry key="SynchronizeAndNullCheckField" value="true" />
+        <entry key="SynchronizeOnClassLiteralNotGetClass" value="true" />
+        <entry key="SynchronizingOnContentsOfFieldToProtectField" value="true" />
+        <entry key="TestASM" value="false" />
+        <entry key="TestDataflowAnalysis" value="false" />
+        <entry key="TestingGround" value="false" />
+        <entry key="TestingGround2" value="false" />
+        <entry key="TrainFieldStoreTypes" value="true" />
+        <entry key="TrainLongInstantfParams" value="true" />
+        <entry key="TrainNonNullAnnotations" value="true" />
+        <entry key="TrainUnconditionalDerefParams" value="true" />
+        <entry key="URLProblems" value="true" />
+        <entry key="UncallableMethodOfAnonymousClass" value="true" />
+        <entry key="UnnecessaryMath" value="true" />
+        <entry key="UnreadFields" value="true" />
+        <entry key="UselessSubclassMethod" value="false" />
+        <entry key="VarArgsProblems" value="true" />
+        <entry key="VolatileUsage" value="true" />
+        <entry key="WaitInLoop" value="true" />
+        <entry key="WrongMapIterator" value="true" />
+        <entry key="XMLFactoryBypass" value="true" />
+      </map>
+    </option>
+    <option name="_reportCategories">
+      <map>
+        <entry key="BAD_PRACTICE" value="true" />
+        <entry key="CORRECTNESS" value="true" />
+        <entry key="EXPERIMENTAL" value="true" />
+        <entry key="I18N" value="true" />
+        <entry key="MALICIOUS_CODE" value="true" />
+        <entry key="MT_CORRECTNESS" value="true" />
+        <entry key="PERFORMANCE" value="true" />
+        <entry key="SECURITY" value="true" />
+        <entry key="STYLE" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>
