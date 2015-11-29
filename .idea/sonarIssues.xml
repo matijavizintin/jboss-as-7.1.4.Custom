@@ -243,6 +243,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/AliceGameEasyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/VerySecureEncryptionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECTS_HOME$/Projects/test-gradle/build.gradle">
           <value>
             <set />
