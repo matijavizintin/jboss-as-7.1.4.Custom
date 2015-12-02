@@ -36,7 +36,7 @@
     <orderEntry type="module-library">
       <library name="Maven: system:jdk-tools:jdk">
         <CLASSES>
-          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/lib/tools.jar!/" />
+          <root url="jar:///usr/lib/jvm/jdk1.7.0_80/lib/tools.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -45,7 +45,7 @@
     <orderEntry type="module" module-name="jboss-as-remoting" />
     <orderEntry type="module" module-name="jboss-as-network" />
     <orderEntry type="module" module-name="jboss-as-threads" />
-    <orderEntry type="library" name="Maven: org.jboss:jandex:1.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jandex:1.2.4.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.invocation:jboss-invocation:1.1.1.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.logmanager:log4j-jboss-logmanager:1.0.1.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.stdio:jboss-stdio:1.0.1.GA" level="project" />
