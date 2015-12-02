@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.picketbox:picketbox:4.0.20-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/picketbox/picketbox/4.0.20-SNAPSHOT/picketbox-4.0.20-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/picketbox/picketbox/4.0.20-SNAPSHOT/picketbox-4.0.20-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/picketbox/picketbox/4.0.20-SNAPSHOT/picketbox-4.0.20-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
