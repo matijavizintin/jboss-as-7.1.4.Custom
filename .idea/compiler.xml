@@ -18,14 +18,6 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-deployment-repository" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/deployment-repository/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-deployment-repository" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-controller" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -58,22 +50,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-jmx" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-domain-management" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/domain-management/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-domain-management" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-osgi-service" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/osgi/service/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-osgi-service" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-embedded" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -81,22 +57,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/embedded/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-embedded" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-process-controller" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/process-controller/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-process-controller" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jpa-spi" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jpa/spi/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jpa-spi" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-protocol" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -138,22 +98,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-jdr" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-remoting" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/remoting/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-remoting" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-server" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/server/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-server" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-clustering-singleton" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -161,14 +105,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/singleton/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-clustering-singleton" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-cli" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/cli/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-cli" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-clustering-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -226,14 +162,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-clustering-registry" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-clustering-infinispan" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/infinispan/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-clustering-infinispan" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-connector" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -241,22 +169,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/connector/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-connector" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-configadmin" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/configadmin/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-configadmin" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-clustering-common" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/common/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-clustering-common" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-cmp" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -266,14 +178,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-cmp" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-clustering-api" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/api/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-clustering-api" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-ee-deployment" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -282,14 +186,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-ee-deployment" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-ee" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/ee/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-ee" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-deployment-scanner" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -297,14 +193,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/deployment-scanner/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-deployment-scanner" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-domain-http-interface" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/domain-http/interface/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-domain-http-interface" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-xts" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -330,14 +218,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-web" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-security" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/security/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-security" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-sar" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -354,30 +234,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-pojo" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-naming" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/naming/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-naming" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-modcluster" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/modcluster/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-modcluster" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-messaging" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/messaging/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-messaging" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-mail" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -385,14 +241,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/mail/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-mail" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-logging" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/logging/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-logging" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-jsr77" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -402,14 +250,6 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-jsr77" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jsf" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jsf/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jsf" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-jaxrs" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -417,14 +257,6 @@
         <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jaxrs/target/generated-translation-files" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-jaxrs" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jacorb" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jacorb/target/generated-translation-files" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jacorb" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-host-controller" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -462,13 +294,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-subsystem-test" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-arquillian-protocol-jmx" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-arquillian-protocol-jmx" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-arquillian-container-remote" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -540,33 +365,12 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-config-assembly" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-clustering-ejb3-infinispan" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-clustering-ejb3-infinispan" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-jpa-openjpa" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-jpa-openjpa" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jpa-hibernate3" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jpa-hibernate3" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jpa-hibernate4" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jpa-hibernate4" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-sos" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -575,26 +379,12 @@
         <processorPath useClasspath="true" />
         <module name="jboss-as-sos" />
       </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jaxr" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jaxr" />
-      </profile>
       <profile default="false" name="Annotation profile for jboss-as-jpa-util" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-jpa-util" />
-      </profile>
-      <profile default="false" name="Annotation profile for jboss-as-jpa" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="jboss-as-jpa" />
       </profile>
       <profile default="false" name="Annotation profile for jboss-as-spec-api-test" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -651,6 +441,216 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jboss-as-ts-integ-smoke" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-process-controller" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/process-controller/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-process-controller" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-clustering-common" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/common/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-clustering-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-domain-http-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/domain-http/interface/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-domain-http-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jacorb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jacorb/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jacorb" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-domain-management" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/domain-management/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-domain-management" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-naming" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/naming/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-naming" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-clustering-infinispan" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/infinispan/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-clustering-infinispan" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-deployment-repository" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/deployment-repository/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-deployment-repository" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-remoting" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/remoting/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-remoting" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-clustering-api" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/clustering/api/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-clustering-api" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-ee" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/ee/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-ee" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/server/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-server" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-clustering-ejb3-infinispan" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-clustering-ejb3-infinispan" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-osgi-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/osgi/service/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-osgi-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-messaging" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/messaging/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-messaging" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-logging" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/logging/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-logging" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jpa-hibernate3" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jpa-hibernate3" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-security" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/security/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-security" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-cli" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/cli/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-cli" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jpa-hibernate4" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jpa-hibernate4" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-configadmin" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/configadmin/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-configadmin" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jpa-spi" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jpa/spi/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jpa-spi" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-arquillian-protocol-jmx" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-arquillian-protocol-jmx" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jaxr" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jaxr" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jpa" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jpa" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-jsf" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/jsf/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-jsf" />
+      </profile>
+      <profile default="false" name="Annotation profile for jboss-as-modcluster" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="generatedTranslationFilesPath" value="$PROJECT_DIR$/modcluster/target/generated-translation-files" />
+        <processorPath useClasspath="true" />
+        <module name="jboss-as-modcluster" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

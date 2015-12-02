@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECTS_HOME$/Downloads/banjaluka-samples/A1/EightRooksPuzzle/src/EightRooks.java">
           <value>
             <set />
@@ -168,97 +178,12 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECTS_HOME$/Projects/Picketbox/picketbox-infinispan/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECTS_HOME$/Projects/TopCoder/SRM 657 DIV 2/src/EightRooks.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/geo/GeoReviewStateAgent.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVPPAgent.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVirtualPowerPlantAgent.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/resources/META-INF/persistence.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/common/src/main/resources/com/solveralynx/gema/common/messages_sl.properties">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/domain/src/main/java/com/solveralynx/gema/domain/core/geounit/GeoUnitMeasurementPlace.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web-resources/src/main/webapp/resources/css/core/content-structure.css">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/GeoReviewMapsBuilder.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/parameters/GeoReviewMapsParameter.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/geomap/GeoReviewReportType.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/virtualpowerplant/ActivationRequestReportType.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/WEB-INF/web.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/energyaccounting/invoices-editing-ea.xhtml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/virtualpowerplant/activation-request.xhtml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/AliceGameEasyTest.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/VerySecureEncryptionTest.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/test-gradle/build.gradle">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECTS_HOME$/Projects/test-gradle/gradle/wrapper/gradle-wrapper.properties">
           <value>
             <set />
           </value>
@@ -388,6 +313,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/services/path/PathManagerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/transform/SubsystemDescriptionDump.java">
           <value>
             <set />
@@ -419,6 +349,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/ee/src/main/java/org/jboss/as/ee/subsystem/EeSubsystemAdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ejb3/src/main/java/org/jboss/as/ejb3/deployment/processors/AbstractDeploymentUnitProcessor.java">
           <value>
             <set />
           </value>
@@ -509,6 +444,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security/src/main/java/org/jboss/as/security/service/SecurityDomainService.java">
           <value>
             <set />
           </value>
@@ -613,6 +553,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/testsuite/integration/smoke/src/test/java/org/jboss/as/test/smoke/stilts/SimpleStompletTestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/web/src/main/java/org/jboss/as/web/WebSubsystemAdd.java">
           <value>
             <set />
@@ -629,6 +574,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/web/src/test/java/org/jboss/as/web/deployment/WarDeploymentProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webservices/server-integration/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webservices/server-integration/src/main/java/org/jboss/as/webservices/tomcat/WebMetaDataCreator.java">
           <value>
             <set />
           </value>
@@ -658,17 +613,112 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/ejb/gms/data/allocations/GBGasDataAccessWSEJB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/ejb/jobs/base/GBJobEJB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/gas/dataaccess/GBGasMeasurementDataAccessEJB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/geo/GeoReviewStateAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVPPAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/java/com/solveralynx/gema/business/impl/pojo/vpp/MeasurementPlaceVirtualPowerPlantAgent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/business-impl/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/common/src/main/resources/com/solveralynx/gema/common/messages_sl.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/domain/src/main/java/com/solveralynx/gema/domain/core/geounit/GeoUnitMeasurementPlace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web-resources/src/main/webapp/resources/css/core/content-structure.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/GeoReviewMapsBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/maps/builders/parameters/GeoReviewMapsParameter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/geomap/GeoReviewReportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/java/com/solveralynx/gema/web/report/virtualpowerplant/ActivationRequestReportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/energyaccounting/invoices-editing-ea.xhtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/roadrunner/trunk/web/src/main/webapp/faces/portlets/report/virtualpowerplant/activation-request.xhtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/AliceGameEasyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/tasks/src/test/java/com/solveralynx/tasks/challanges/VerySecureEncryptionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/test-gradle/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECTS_HOME$/Projects/test-gradle/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECTS_HOME$/Projects/wildfly/wildfly-7.2.0.Final-testsuite-fix/controller/src/main/java/org/jboss/as/controller/ControllerMessages.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="/a.dummy">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="/fragment.java">
           <value>
             <set />
           </value>

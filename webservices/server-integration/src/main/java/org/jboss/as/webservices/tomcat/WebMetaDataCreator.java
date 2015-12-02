@@ -21,9 +21,6 @@
  */
 package org.jboss.as.webservices.tomcat;
 
-import java.util.Arrays;
-import java.util.List;
-
 import org.jboss.as.server.deployment.DeploymentUnit;
 import org.jboss.as.web.deployment.WarMetaData;
 import org.jboss.as.webservices.util.ASHelper;
@@ -41,6 +38,12 @@ import org.jboss.ws.common.integration.WSHelper;
 import org.jboss.wsf.spi.deployment.Deployment;
 import org.jboss.wsf.spi.deployment.Endpoint;
 import org.jboss.wsf.spi.deployment.HttpEndpoint;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 import static org.jboss.as.webservices.WSLogger.ROOT_LOGGER;
 
@@ -338,7 +341,11 @@ final class WebMetaDataCreator {
     private String getAuthMethod(final Deployment dep) {
         final SecurityMetaDataAccessorEJB ejbMDAccessor = getEjbSecurityMetaDataAccessor(dep);
 
-        for (final Endpoint ejbEndpoint : dep.getService().getEndpoints()) {
+        // NOTE: this is a little bit of a hack because JDK7 orders this endpoints differently than the JDK8. Upgrading jindex didn't help so this
+        // sort looked quite an innocent hack
+        List<Endpoint> endpoints = new ArrayList<Endpoint>(dep.getService().getEndpoints());
+        Collections.sort(endpoints, ENDPOINT_COMPARATOR);
+        for (final Endpoint ejbEndpoint : endpoints) {
             final String beanAuthMethod = ejbMDAccessor.getAuthMethod(ejbEndpoint);
             final boolean hasBeanAuthMethod = beanAuthMethod != null;
 
@@ -363,4 +370,11 @@ final class WebMetaDataCreator {
 
         return isJaxws ? ejb3SecurityAccessor : ejb21SecurityAccessor;
     }
+
+    private static final Comparator<Endpoint> ENDPOINT_COMPARATOR = new Comparator<Endpoint>() {
+        @Override
+        public int compare(Endpoint o1, Endpoint o2) {
+            return o1.getAddress().compareTo(o2.getAddress());
+        }
+    };
 }
