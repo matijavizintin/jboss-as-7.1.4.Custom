@@ -106,7 +106,7 @@
         <version.jboss.jaxbintros>1.0.2.GA</version.jboss.jaxbintros>
         <version.jline>0.9.94</version.jline>
         <version.joda-time>1.6.2</version.joda-time>
-        <version.junit>4.10</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.log4j>1.2.16</version.log4j>
         <version.net.jcip>1.0</version.net.jcip>
         <version.org.apache.ant>1.8.2</version.org.apache.ant>
