@@ -51,7 +51,7 @@
         <!-- This value is overridden in submodules with the correct relative path. -->
         <xslt.scripts.dir>${basedir}/../integration/src/test/xslt</xslt.scripts.dir>
 
-        <version.org.hibernate3>3.6.6.Final</version.org.hibernate3>
+        <version.org.hibernate3>5.4.24.Final</version.org.hibernate3>
     </properties>
 
     <!--
