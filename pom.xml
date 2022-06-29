@@ -250,7 +250,7 @@
         <version.org.python.jython.standalone>2.5.2</version.org.python.jython.standalone>
         <version.org.rhq.helpers>3.0.4</version.org.rhq.helpers>
         <version.org.scannotation>1.0.2</version.org.scannotation>
-        <version.org.slf4j>1.6.1</version.org.slf4j>
+        <version.org.slf4j>1.7.26</version.org.slf4j>
         <version.org.sonatype.aether>1.13.1</version.org.sonatype.aether>
         <version.org.testng>6.1.1</version.org.testng>
         <version.org.yaml.snakeyaml>1.8</version.org.yaml.snakeyaml>
